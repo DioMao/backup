@@ -1,5 +1,4 @@
-# google play store
-rules:
-  - DOMAIN-SUFFIX,services.googleapis.cn,PROXY
-  - DOMAIN-SUFFIX,services.googleapis.com,PROXY
-  - DOMAIN-SUFFIX,xn--ngstr-ira8j.com,PROXY
+# Google Play Store 相关规则
+DOMAIN-SUFFIX,services.googleapis.cn,PROXY
+DOMAIN-SUFFIX,services.googleapis.com,PROXY
+DOMAIN-SUFFIX,xn--ngstr-ira8j.com,PROXY
